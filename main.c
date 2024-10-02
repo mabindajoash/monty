@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 #include <stdio.h>
 #include <stdlib.h>
 bus_t bus = {NULL, NULL, NULL, 0};
